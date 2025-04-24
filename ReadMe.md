@@ -1,5 +1,9 @@
 #  About Me:
-🔭 I'm currently collaborating on a Campus Virtual Parking Permit System to streamline the management of permits and ticketing within campus environments while eliminating pape waste by going fully digital.<br>👯 Largely interested in collaborating on impactful, real-world full stack projects!<br>🤝 Always open to chatting and making new friends, or listening to any career advice/tips!<br>🌱 I’m currently learning full stack web development and machine learning as a brief mention.<br>⚡ Fun fact, I'm a big fan of martial arts and enjoy wrestling and training jiu jitsu in my free time! Also looking to get into rock climbing..
+🔭 I'm currently collaborating on a Campus Virtual Parking Permit System to streamline the management of permits and ticketing within campus environments while eliminating pape waste by going fully digital.<br>
+👯 Largely interested in collaborating on impactful, real-world full stack projects!<br>
+🤝 Always open to chatting and making new friends, or listening to any career advice/tips!<br>
+🌱 I’m currently learning full stack web development and machine learning as a brief mention.<br>
+⚡ Fun fact, I'm a big fan of martial arts and enjoy wrestling and training jiu jitsu in my free time! Also looking to get into rock climbing..
 
 
 ## 🌐 Socials:
