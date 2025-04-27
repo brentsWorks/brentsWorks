@@ -5,7 +5,7 @@ I'm currently collaborating on a Campus Virtual Parking Permit System to streaml
 
 🤝 Always open to chatting and making new friends, or listening to any career advice/tips!<br>
 
-🌱 I’m currently learning full stack web development and machine learning as a brief mention.<br>
+🌱 I’m currently focused on learning full stack web development as well as machine learning as a brief mention.<br>
 
 ⚡ Fun fact, I'm a big fan of martial arts and enjoy wrestling and training jiu jitsu in my free time! Also looking to get into rock climbing..
 
