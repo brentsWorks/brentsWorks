@@ -1,5 +1,5 @@
 #  About Me:
-I'm currently collaborating on a Campus Virtual Parking Permit System to streamline the management of permits and ticketing within campus environments while eliminating pape waste by going fully digital.<br>
+I'm currently collaborating on a Campus Virtual Parking Permit System to streamline the management of permits and ticketing within campus environments while eliminating paper waste by going fully digital.<br>
 
 👯 Largely interested in collaborating on impactful, real-world full stack projects!<br>
 
