@@ -1,5 +1,6 @@
 #  About Me:
-I'm currently collaborating on a Campus Virtual Parking Permit System to streamline the management of permits and ticketing within campus environments while eliminating paper waste by going fully digital. (@ www.parkwise.net )<br>
+Currently working on:
+- Developing an intelligent LLM routing system that automatically selects the best AI model for each task, balancing quality, cost, and latency through semantic analysis and multi-dimensional scoring algorithms.<br>
 
 👯 Largely interested in collaborating on impactful, real-world full stack projects!<br>
 
